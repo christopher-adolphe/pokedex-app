@@ -2,7 +2,7 @@
 A Pokedex iOS application.
 
 ## Purpose
- - To learn the basics of iOS Development using Swift.
+* To learn the basics of iOS Development using Swift.
 
 ## Author
 Christopher Adolphe
